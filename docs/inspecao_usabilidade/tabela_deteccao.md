@@ -27,14 +27,18 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  9 | Interface Minha conta: Muitas informações desorganizadas | Design estético e minimalista (H8) | 4 | 01:00 |
 | 10 | Interface Dados Pessoais: os usuários são enganados ao tentar preencher dados nas caixas brancas, quando deveriam clicar em "editar" | Consistência e padrões (H4) | 3 | 01:00 |
 
-### Inspetor : A3
-
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+|  1 |O site não informa o que significa a o botão 'Chave de acesso'| Ajuda e documentação(H10)|3|00:30|
+|  2 |o site não oferece a liberdade de voltar para a pagina inicial apos selecionar o botao de realizar login|Controle e liberdade do usuário(H3)|3|00:30|
+|  3 |O site não fornece a opção de visualizar a senha digitada pelo usuario|Controle e liberdade do usuário(H3)|3|00:30|
+|  4 |O site não verifica se a nova senha inserida nos campos é igual a senha atual do usuario|Prevenção de erros(H5)|4|00:30|
+|  5 |Na aba "minha conta" o site não deixa claro que as palavras flutuantes são links de navegação|Compatibilidade entre o sistema e o mundo real(H2) |3|00:30 |
+|  6 |O site apresenta um design inconsistente em diversas abas|Estetica e design minimalista(H8) |4 |00:30 |
+|  7 |o site não informa que alguns dados do usuário já foram preenchidos automaticamente com valores padrão e nao informa que o usuário pode alterar os dados a qualquer momento| H9, H10 |4 |00:30 |
+|  8 |O site não apresenta um 'mapa de site' no seu rodapé| H10 |4 |00:30|
+|  9 |Após selecionar o botão 'Chave de acesso' o site pede o email do usuario mas não informa quais serão os proximos passos |Visibilidade e status do sistema (H4)|4 |00:30 |
+|  10 |O site não verifica se o email inserido é valido ou não |H5, H9| 4|00:30|
 
 ### Inspetor : A4
 
