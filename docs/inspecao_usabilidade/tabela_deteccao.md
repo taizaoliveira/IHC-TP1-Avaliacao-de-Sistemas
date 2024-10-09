@@ -16,9 +16,9 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
+|  1 | Desconhecimento do termo "Chave de Acesso" pelo usuário                       | Correspondência entre o sistema e o mundo real (H2)                    | 3           | 02:00              |
+|  2 | Elementos com cores e formatos distintos e botão parecendo caixa de texto                      | Consistência e padrões (H4)                    | 2          | 02:00           |
+|  3 | Sistema não informa o tipo de simbolos para afetuar login                      | Prevenção de erros (H5)                    | 2           | 02:00              |
 |  4 |                       |                      |            |               |
 
 ### Inspetor : A3
