@@ -16,16 +16,16 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 | Interface Login: O termo "Chave de Acesso" não é familiar para o usuário e sua função não é bem explicada                       | Correspondência entre o sistema e o mundo real (H2) | 3 | 00:30 |
-|  2 | Interface Login: Elementos com cores e formatos variados e botão com aparência de caixa de texto                                   | Consistência e padrões (H4) | 2 | 00:30 |
-|  3 | Interface Login: O botão "Chave de Acesso" não é claramente identificado, levando o usuário a clicar sem compreender sua função    | Prevenção de erros (H5) | 3 | 00:30 |
-|  4 | Interface Login: Complexidade desnecessária na variedade de cores e tamanhos, especialmente no botão "entrar com email e senha ou cadastrar"                                                                                                                               | Design estético e minimalista (H8) | 2 | 00:30 |
-|  5 | Interface Login: O sistema força os usuários a descobrirem sozinhos a função da "Chave de Acesso", sem oferecer informações visuais claras ou ícones que facilitem a compreensão de sua utilidade                                                                     | Reconhecimento em vez de recordação (H6) | 2 | 00:30 |
-|  6 | Login através de "Entrar com email e senha": o sistema não especifica os tipos de símbolos necessários                             | Prevenção de erros (H5) | 2 | 01:00 |
-|  7 | Login através de "Chave de Acesso": O sistema não informa que a chave muda a cada acesso ao site                                  | Visibilidade do status do sistema (H1) | 4 | 01:00 |
-|  8 | Login através de "Chave de Acesso": aumento de probabilidade de o usuário tentar usar uma chave antiga e encontar problemas no acesso, já que o sistema não informa que a chave muda | Prevenção de erros (H5) | 4 | 01:00 |
-|  9 | Interface Minha conta: Muitas informações desorganizadas | Design estético e minimalista (H8) | 4 | 01:00 |
-| 10 | Interface Dados Pessoais: os usuários são enganados ao tentar preencher dados nas caixas brancas, quando deveriam clicar em "editar" | Consistência e padrões (H4) | 3 | 01:00 |
+|  1 | Interface Login: O termo "Chave de Acesso" não é familiar para o usuário e sua função não é bem explicada                       | Correspondência entre o sistema e o mundo real (H2)                  | 3 | 00:30 |
+|  2 | Interface Login: Elementos com cores e formatos variados e botão com aparência de caixa de texto                                   | Consistência e padrões (H4)                                        | 2 | 00:30 |
+|  3 | Interface Login: O botão "Chave de Acesso" não é claramente identificado, levando o usuário a clicar sem compreender sua função    | Prevenção de erros (H5)                                            | 3 | 00:30 |
+|  4 | Interface Login: Complexidade desnecessária na variedade de cores e tamanhos, especialmente no botão "entrar com email e senha ou cadastrar"                                                                                                                               | Design estético e minimalista (H8)                                 | 2 | 00:30 |
+|  5 | Interface Login: O sistema força os usuários a descobrirem sozinhos a função da "Chave de Acesso", sem oferecer informações visuais claras ou ícones que facilitem a compreensão de sua utilidade                                                                     | Reconhecimento em vez de recordação (H6)                           | 2 | 00:30 |
+|  6 | Login através de "Entrar com email e senha": o sistema não especifica os tipos de símbolos necessários                             | Prevenção de erros (H5)                                            | 2 | 01:00 |
+|  7 | Login através de "Chave de Acesso": O sistema não informa que a chave muda a cada acesso ao site                                  | Visibilidade do status do sistema (H1)                             | 4 | 01:00 |
+|  8 | Login através de "Chave de Acesso": Maior probabilidade de o usuário tentar usar uma chave antiga e enfrentar problemas de acesso, já que o sistema não informa que a chave muda                                                                                             | Prevenção de erros (H5)                                            | 4 | 01:00 |
+|  9 | Interface "Minha Conta": Há muitas informações, e todas estão desorganizadas                                                       | Design estético e minimalista (H8)                                 | 4 | 01:00 |
+| 10 | Interface "Dados Pessoais": Os usuários são enganados ao tentarem preencher dados nas caixas brancas, quando deveriam clicar em "editar"                                                                                                                                  | Consistência e padrões (H4)                                        | 3 | 01:00 |
 
 
 ### Inspetor : A3
