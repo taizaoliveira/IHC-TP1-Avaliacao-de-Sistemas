@@ -27,6 +27,9 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  9 | Interface Minha conta: Muitas informações desorganizadas | Design estético e minimalista (H8) | 4 | 01:00 |
 | 10 | Interface Dados Pessoais: os usuários são enganados ao tentar preencher dados nas caixas brancas, quando deveriam clicar em "editar" | Consistência e padrões (H4) | 3 | 01:00 |
 
+
+### Inspetor : A3
+
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
 |  1 |O site não informa o que significa a o botão 'Chave de acesso'| Ajuda e documentação(H10)|3|00:30|
