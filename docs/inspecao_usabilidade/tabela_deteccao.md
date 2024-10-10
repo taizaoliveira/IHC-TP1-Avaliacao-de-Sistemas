@@ -47,12 +47,12 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 29 | Lista de categorias: A lista está desorganizada, como se alguém tivesse mexido, mesmo sem intervenção do usuário, além das cores e tamanhos de letras variados | Design estética e minimalista (H8) | 3 | 01:30 |
 | 30 | Lista de categorias: Não há controle ou liberdade para o usuário voltar ou acessar outras categorias à vontade | Controle e liberdade do usuário (H3) | 3 | 01:30 |
 | 31 | Filtros: Poucos filtros disponíveis, com poucas opções, e alguns são desativados ao ajustar outros | Flexibilidade e eficiência de uso (H7) | 3 | 01:30 |
-| 32 | Lista de desejos: Falta de aviso claro sobre a não salvaguarda após logout | Ajude a reconhecer e recuperar erros (H9) |  4 | 01:30 |
-| 33 | Lista de desejos: A ausência de salvamento automático desvia dos padrões esperados de design | Consistência e padrões (H4) | 4 | 01:30 |
-| 34 | Lista de desejos:: A falta de salvamento automático força os usuários a repetir ações anteriores e reduzindo a eficiência de uso | Flexibilidade e eficiência de uso (H7) | 4 | 01:30 |
-| 35 | Lista de desejos: Falta de feedback sobre o salvamento da lista ou do carrinho de compras após o logout| Visibilidade do status do sistema (H4) | 4 | 01:30 |
-| 36 | Lista de desejos: A falta de controle sobre o salvamento e restauração pode limitar a liberdade do usuário, impedindo-o de manter itens na lista de desejos | Controle e liberdade do usuário (H3) | 4 | 01:30 |
-| 37 | Lista de desejos: Quando o sistema não mantém a lista de desejos ou o carrinho após o logout, o usuário precisa lembrar quais itens foram selecionados ao fazer login novamente | Reconhecimento em vez de recordação (H6) | 4 | 01:30 |
+| 32 | Lista de desejos: Falta de aviso claro sobre a não salvaguarda após logout | Ajude a reconhecer e recuperar erros (H9) |  4 | 02:00 |
+| 33 | Lista de desejos: A ausência de salvamento automático desvia dos padrões esperados de design | Consistência e padrões (H4) | 4 | 02:00 |
+| 34 | Lista de desejos:: A falta de salvamento automático força os usuários a repetir ações anteriores e reduzindo a eficiência de uso | Flexibilidade e eficiência de uso (H7) | 4 | 02:00 |
+| 35 | Lista de desejos: Falta de feedback sobre o salvamento da lista ou do carrinho de compras após o logout| Visibilidade do status do sistema (H4) | 4 | 02:00 |
+| 36 | Lista de desejos: A falta de controle sobre o salvamento e restauração pode limitar a liberdade do usuário, impedindo-o de manter itens na lista de desejos | Controle e liberdade do usuário (H3) | 4 | 02:00 |
+| 37 | Lista de desejos: Quando o sistema não mantém a lista de desejos ou o carrinho após o logout, o usuário precisa lembrar quais itens foram selecionados ao fazer login novamente | Reconhecimento em vez de recordação (H6) | 4 | 02:00 |
 | 38 | Página Principal: A falta de um design estético e minimalista no sistema dificulta a navegação | Design estético e minimalista (H8) | 4 | 02:00 |
 | 39 | Carrinho: Ao clicar em "comprar livro", não há feedback; o usuário é apenas direcionado ao carrinho | Visibilidade do status dos sistema (H1) | 3 | 02:00 |
 | 40 | Carrinho: Comprar e adicionar ao carrinho ocorrem simultanenamente, sem opção de apenas adicionar ao carrinho | Flexibilidade e eficiência de uso (H7) | 2 | 02:00 |
