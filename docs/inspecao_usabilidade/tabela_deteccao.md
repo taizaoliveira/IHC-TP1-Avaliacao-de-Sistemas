@@ -36,10 +36,10 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 18 | Interface "Endereços": A função remover só está na edição de local, reduzindo a eficiência do sistema e a quantidade de atalhos | Flexibilidade e eficiência de uso (H7) | 2 | 01:30 |
 | 19 | Interface "Pedidos": Não há seta ou saída de emergência para retornar à página inicial | Controle e liberdade do usuário (H3) | 3 | 01:30 |
 | 20 | Interface "Pedidos": Não há atalho para retornar ao menu | Flexibilidade e eficiência de uso (H7) | 3 | 01:30 |
-| 21 | Barra de Categorias: O sistema não fornece feedback sobre para onde o usuário foi direcionado ao clicar em outra categoria | Visibilidade do status do sistema (H1) | 2 | 01:30 |
-| 22 | Barra de Categorias: Não há botão para retornar ao menu principal | Controle e liberdade do usuário (H3) | 2 | 01:30 |
-| 23 | Barra de Categorias: Ao clicar em "compre por categoria", os hyperlinks levam a outras páginas, mas o modo como a aba aparece e desaparece é irritante e ineficiente | Flexibilidade e eficiência de uso (H7) | 2 | 01:30 |
-| 24 | Barra de Categorias: Design muito ruim, não é estético nem minimalista, pois apresenta muitas informações desorganizadas | Design estético e minimalista (H8) | 3 | 01:30 |
+| 21 | Menu: O sistema não fornece feedback sobre para onde o usuário foi direcionado ao clicar em outra categoria | Visibilidade do status do sistema (H1) | 2 | 01:30 |
+| 22 | Menu: Não há botão para retornar ao menu principal | Controle e liberdade do usuário (H3) | 2 | 01:30 |
+| 23 | Menu: Ao clicar em "compre por categoria", os hyperlinks levam a outras páginas, mas o modo como a aba aparece e desaparece é irritante e ineficiente | Flexibilidade e eficiência de uso (H7) | 2 | 01:30 |
+| 24 | Menu: Design muito ruim, não é estético nem minimalista, pois apresenta muitas informações desorganizadas | Design estético e minimalista (H8) | 3 | 01:30 |
 | 25 | Visualizar páginas de livros/compra: Design de compra pouco estético e minimalista, com imagens de baixa qualidade e excesso de informações | Design estético e minimalista (H8) | 3 | 01:30 |
 | 26 | Visualizar páginas de livros/páginas: Não há atalho para voltar, e, se existir, não é facilmente encontrado | Flexibilidade e eficiência de uso (H7) | 3 | 01:30 |
 | 27 | Lista de categorias: não segue padrões e só pode ser acessada ao realizar uma pesquisa | Consistência e padrões (H4) | 3 | 01:30 |
@@ -47,12 +47,19 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 29 | Lista de categorias: A lista está desorganizada, como se alguém tivesse mexido, mesmo sem intervenção do usuário, além das cores e tamanhos de letras variados | Design estética e minimalista (H8) | 3 | 01:30 |
 | 30 | Lista de categorias: Não há controle ou liberdade para o usuário voltar ou acessar outras categorias à vontade | Controle e liberdade do usuário (H3) | 3 | 01:30 |
 | 31 | Filtros: Poucos filtros disponíveis, com poucas opções, e alguns são desativados ao ajustar outros | Flexibilidade e eficiência de uso (H7) | 3 | 01:30 |
-| 32 | Sistema: Falta de aviso claro sobre a não salvaguarda da lista de desejos após logout | Ajude a reconhecer e recuperar erros (H9) |  4 | 01:30 |
-| 33 | Sistema: A ausência de salvamento automático das listas de desejos desvia dos padrões esperados de design | Consistência e padrões (H4) | 4 | 01:30 |
-| 34 | Sistema: A falta de salvamento automático da lista de desejos força os usuários a repetir ações anteriores e reduzindo a eficiência de uso | Flexibilidade e eficiência de uso (H7) | 4 | 01:30 |
-| 35 | Sistema: A falta de feedback sobre o salvamento da lista de desejos ou do carrinho de compras após o logout pode confundir e frustrar os usuários | Visibilidade do status do sistema (H4) | 4 | 01:30 |
-| 36 | Sistema: A falta de controle sobre o salvamento e restauração das listas de desejos e carrinho pode limitar a liberdade do usuário, impedindo-o de manter itens na lista de desejos | Controle e liberdade do usuário (H3) | 4 | 01:30 |
-| 37 | Sistema: Quando o sistema não mantém a lista de desejos ou o carrinho após o logout, o usuário precisa lembrar quais itens foram selecionados ao fazer login novamente | Reconhecimento em vez de recordação (H6) | 4 | 01:30 |
+| 32 | Lista de desejos: Falta de aviso claro sobre a não salvaguarda após logout | Ajude a reconhecer e recuperar erros (H9) |  4 | 01:30 |
+| 33 | Lista de desejos: A ausência de salvamento automático desvia dos padrões esperados de design | Consistência e padrões (H4) | 4 | 01:30 |
+| 34 | Lista de desejos:: A falta de salvamento automático força os usuários a repetir ações anteriores e reduzindo a eficiência de uso | Flexibilidade e eficiência de uso (H7) | 4 | 01:30 |
+| 35 | Lista de desejos: Falta de feedback sobre o salvamento da lista ou do carrinho de compras após o logout| Visibilidade do status do sistema (H4) | 4 | 01:30 |
+| 36 | Lista de desejos: A falta de controle sobre o salvamento e restauração pode limitar a liberdade do usuário, impedindo-o de manter itens na lista de desejos | Controle e liberdade do usuário (H3) | 4 | 01:30 |
+| 37 | Lista de desejos: Quando o sistema não mantém a lista de desejos ou o carrinho após o logout, o usuário precisa lembrar quais itens foram selecionados ao fazer login novamente | Reconhecimento em vez de recordação (H6) | 4 | 01:30 |
+| 38 | Página Principal: A falta de um design estético e minimalista no sistema dificulta a navegação | Design estético e minimalista (H8) | 4 | 02:00 |
+| 39 | Carrinho: Ao clicar em "comprar livro", não há feedback; o usuário é apenas direcionado ao carrinho | Visibilidade do status dos sistema (H1) | 3 | 02:00 |
+| 40 | Carrinho: Comprar e adicionar ao carrinho ocorrem simultanenamente, sem opção de apenas adicionar ao carrinho | Flexibilidade e eficiência de uso (H7) | 2 | 02:00 |
+| 41 | Comprar: Não há feedback sobre o destino após ser direcionado | Visibilidade do status do sistema (H1) | 2 | 02:00 |
+| 42 | Comprar: Mesmo após adicionar meu endereço, o sistema não preenche nem calcula o frete automaticamente | Flexibilidade e eficiência de uso (H7) | 4 | 02:00 |
+| 43 | Comprar: Não há opção para voltar | Controle e liberdade do usuário (H3) | 4 | 02:00 |
+
 
 ### Inspetor : A3
 
