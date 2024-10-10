@@ -59,6 +59,10 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 41 | Comprar: Não há feedback sobre o destino após ser direcionado | Visibilidade do status do sistema (H1) | 2 | 02:00 |
 | 42 | Comprar: Mesmo após adicionar meu endereço, o sistema não preenche nem calcula o frete automaticamente | Flexibilidade e eficiência de uso (H7) | 4 | 02:00 |
 | 43 | Comprar: Não há opção para voltar | Controle e liberdade do usuário (H3) | 4 | 02:00 |
+| 44 | Sistema: A sessão do usuário permanece ativa após o logout | Prevenção de erros (H5) | 4 | 02:00 |
+| 45 | Recuperar senha: Não faz sentido exigir uma senha com uma letra chinesa em um sistema brasileiro | Correspondência entre o sistema e o mundo real (H2) | 3 | 02:00 |
+| 46 | Recuperar senha: O design não é estético e está cobrindo as palavras e as ferramentas para voltar | Design estético e minimalista (H8) | 4 | 02:00|
+| 47 | Recuperar senha: O usuário não consegue cadastrar ou alterar a senha devido à "letra chinesa" imposta pelo sistema e o mau design do sistema dificulta o acesso ao link de voltar | Flexibilidade e eficiência de uso (H7) | 3 | 02:00 |
 
 
 ### Inspetor : A3
