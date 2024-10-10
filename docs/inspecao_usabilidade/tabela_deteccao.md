@@ -68,10 +68,14 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 50 | Finalizar compra: As caixas vazias não fornecem um modelo de preenchimento para evitar erros | Prevenção de erros (H5) | 2 | 02:00 |
 | 51 | Finalizar compra: Os dados do "meu perfil" não foram transferidos, tornando necessário preencher tudo novamente | Flexibilidade e eficiência de uso (H7) | 4 | 02:00 |
 | 52 | Finalizar compra: Design não é estético, com muitas informações na página e várias partes não executáveis que ocupam espaço | Design estético e minimalista (H8) | 3 | 02:00 |
-| 53 | Sistema: A sessão do usuário permanece ativa após o logout | Prevenção de erros (H5) | 4 | 02:00 |
-| 54 | Recuperar senha: Não faz sentido exigir uma senha com uma letra chinesa em um sistema brasileiro | Correspondência entre o sistema e o mundo real (H2) | 3 | 02:00 |
-| 55 | Recuperar senha: O design não é estético e está cobrindo as palavras e as ferramentas para voltar | Design estético e minimalista (H8) | 4 | 02:00|
-| 56 | Recuperar senha: O usuário não consegue cadastrar ou alterar a senha devido à "letra chinesa" imposta pelo sistema e o mau design do sistema dificulta o acesso ao link de voltar | Flexibilidade e eficiência de uso (H7) | 3 | 02:00 |
+| 53 | Pagamento: O sistema não oferece uma saída de emergência para o usuário cancelar o pedido | Controle e liberdade (H3) | 4 | 02:00 |
+| 54 | Pagamento: O sistema não oferece atalhos para facilitar o pagamento nem para voltar | Flexibilidade e eficiência de uso (H7) | 3 | 02:00 |
+| 55 | Pagamento: O sistema não fornece feedback sobre o pagamento em processamento ou finalização, nem orienta sobre o que fazer a seguir | Visibilidade do status do sistema (H1) | 4 | 02:00 |
+| 56 | Recuperar senha: Não faz sentido exigir uma senha com uma letra chinesa em um sistema brasileiro | Correspondência entre o sistema e o mundo real (H2) | 3 | 02:00 |
+| 57 | Recuperar senha: O design não é estético e está cobrindo as palavras e as ferramentas para voltar | Design estético e minimalista (H8) | 4 | 02:00|
+| 58 | Recuperar senha: O usuário não consegue cadastrar ou alterar a senha devido à "letra chinesa" imposta pelo sistema e o mau design do sistema dificulta o acesso ao link de voltar | Flexibilidade e eficiência de uso (H7) | 3 | 02:00 |
+| 59 | Sistema: A sessão do usuário permanece ativa após o logout | Prevenção de erros (H5) | 4 | 02:00 |
+| 60 | Sistema: O sistema não possui documentação específica para orientar o usuário sobre o funcionamento, desde login e cadastro até o pagamento de um livro | Ajuda e documentação (H10) | 4 | 02:00 |
 
 
 ### Inspetor : A3
