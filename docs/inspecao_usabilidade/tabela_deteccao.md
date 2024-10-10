@@ -59,10 +59,19 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 41 | Comprar: Não há feedback sobre o destino após ser direcionado | Visibilidade do status do sistema (H1) | 2 | 02:00 |
 | 42 | Comprar: Mesmo após adicionar meu endereço, o sistema não preenche nem calcula o frete automaticamente | Flexibilidade e eficiência de uso (H7) | 4 | 02:00 |
 | 43 | Comprar: Não há opção para voltar | Controle e liberdade do usuário (H3) | 4 | 02:00 |
-| 44 | Sistema: A sessão do usuário permanece ativa após o logout | Prevenção de erros (H5) | 4 | 02:00 |
-| 45 | Recuperar senha: Não faz sentido exigir uma senha com uma letra chinesa em um sistema brasileiro | Correspondência entre o sistema e o mundo real (H2) | 3 | 02:00 |
-| 46 | Recuperar senha: O design não é estético e está cobrindo as palavras e as ferramentas para voltar | Design estético e minimalista (H8) | 4 | 02:00|
-| 47 | Recuperar senha: O usuário não consegue cadastrar ou alterar a senha devido à "letra chinesa" imposta pelo sistema e o mau design do sistema dificulta o acesso ao link de voltar | Flexibilidade e eficiência de uso (H7) | 3 | 02:00 |
+| 44 | Comprar: O design não é estético, com fontes, cores e tamanhos inconsistentes, prejudicando a experiência do usuário, especialmente no hiperlink "escolher mais produtos" | Design estético e minimalista (H8) | 3 | 02:00 |
+| 45 | Cupom: O usuário deve digitar o código do cupom sem orientações, e o sistema não informa se há cupons disponíveis. | Flexibilidade e eficiência de uso (H7) | 3 | 02:00 |
+| 46 | Cupom: A ausência de base para o código do cupom expõe o usuário a falhas | Prevenção de erros (H5) | 3 | 02:00 |
+| 47 | Finalizar compra: O sistema não fornece feedback antes de chegar a esta página, nem informa o que vem a seguir | Visibilidade do status do sistema (H1) | 1 | 02:00 |
+| 48 | Finalizar compra: Não há função para voltar nem uma saída de emergência | Controle e liberdade do usuário (H3) | 3 | 02:00 |
+| 49 | Finalizar compra: As tabelas e caixas estão misturadas e mal definidas na página, com cores desagradáveis | Consistência e padrões (H4) | 2 | 02:00 |
+| 50 | Finalizar compra: As caixas vazias não fornecem um modelo de preenchimento para evitar erros | Prevenção de erros (H5) | 2 | 02:00 |
+| 51 | Finalizar compra: | Flexibilidade e eficiência de uso (H7) | 4 | 02:00 |
+| 52 | Finalizar compra: | Design estético e minimalista (H8) | 3 | 02:00 |
+| 53 | Sistema: A sessão do usuário permanece ativa após o logout | Prevenção de erros (H5) | 4 | 02:00 |
+| 54 | Recuperar senha: Não faz sentido exigir uma senha com uma letra chinesa em um sistema brasileiro | Correspondência entre o sistema e o mundo real (H2) | 3 | 02:00 |
+| 55 | Recuperar senha: O design não é estético e está cobrindo as palavras e as ferramentas para voltar | Design estético e minimalista (H8) | 4 | 02:00|
+| 56 | Recuperar senha: O usuário não consegue cadastrar ou alterar a senha devido à "letra chinesa" imposta pelo sistema e o mau design do sistema dificulta o acesso ao link de voltar | Flexibilidade e eficiência de uso (H7) | 3 | 02:00 |
 
 
 ### Inspetor : A3
