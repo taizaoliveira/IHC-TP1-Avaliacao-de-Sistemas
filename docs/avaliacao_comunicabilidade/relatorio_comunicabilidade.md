@@ -9,6 +9,26 @@ A avaliação contou com a participação de quatro usuários, que se encaixavam
 
 ### Interpretação
 Foram identificadas onze etiquetas.
+| Etiqueta                   | Falha      | Participantes | Atividade                        |
+|----------------------------|------------|---------------|----------------------------------|
+| Cade?                      |            |               |                                  |
+| E agora?                   |            |               |                                  |
+| O que é isto?             |            |               |                                  |
+| Epa!                       |            |               |                                  |
+| Onde estou?                | Temporária | 1             |                                 |
+| Assim não dá.             |            |               |                                  |
+| Por que não funciona?      |            |               |                                  |
+| Ué, o que houve?          | Temporária | 1             |                                  |
+| Ué, o que houve?          | Temporária | 1             |                                  |
+| Pra mim está bom...       | Completa   | 1             |                                  |
+| Desisto!                   |            |               |                                  |
+| Vai de outro jeito.        |            |               |                                  |
+| Não, obrigado.             |            |               |                                  |
+| Socorro!                   |            |               |                                  |
+| Cadê?                      | Parcial    | 4             |                                  |
+| Cadê?                      | Parcial    | 3             |                                  |
+| Cadê?                      | Temporária | 1             |                                  |
+
 
 ### Perfis dos Usuários
 
