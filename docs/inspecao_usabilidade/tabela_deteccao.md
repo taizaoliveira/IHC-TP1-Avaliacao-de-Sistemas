@@ -6,10 +6,13 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+|  1 | Avaliação dos consumidores: Informação confusa, não ficando claro se o campo é para realizar uma avaliação ou se é apenas para visualização das avaliações.                   |                      |            |               |
+|  2 | A assistente virtual é ativada no canto da tela sem nenhuma identificação.                      |                      |            |               |
+|  3 |  Adicionar um produto ao carrinho pela aba de cálculo de frete não é finalizada.                     |                      |            |               |
+|  4 |  Navegação confusa, com separação de elementos de navegação difíceis de se serem percebidas.                     |                      |            |               |
+|  5 | Falta de informação ao usuário sobre os tipos de produtos que o site oferece.                      |                      |            |               |
+|  6 |    Site apresenta produtos com informações incompletas.                   |                      |            |               |
+|  7 |                       |                      |            |               |
 
 
 ### Inspetor : A2
