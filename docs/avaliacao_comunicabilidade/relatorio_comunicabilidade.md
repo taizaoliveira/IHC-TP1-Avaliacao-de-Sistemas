@@ -1,10 +1,14 @@
 # 6 – Método de Avaliação de Comunicabilidade (MAC)
 
-### Planejamento
+### Execução MAC: Preparação e Coleta de Dados
 
+A avaliação foi realizada em uma sala de aula do Instituto de Ciências Exatas e Tecnologia - ICET. Com o uso de um smarthphone do próprio usuário, que capturou por meio da gravação de tela a navegação pelo site. Para a captura dos rostos dos usuários foi utilizado um segundo smarthphone do próprio avaliador para fazer as gravações. 
+Todos os entrevistados aceitaram e assinaram um termo de consentimento, que 
+declarava qual foi o objetivo do teste e que suas informações não seriam divulgadas.
+A avaliação contou com a participação de quatro usuários, que se encaixavam no perfil criado e o suficiente para coletar as etiquetas. Foram realizas as seguintes atividades:
 
-### Roteiro das Atividades
-
+### Interpretação
+Foram identificadas onze etiquetas.
 
 ### Perfis dos Usuários
 
