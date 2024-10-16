@@ -14,3 +14,5 @@
 
 
 ### 2° Etapa
+
+ferramenta UEQ que foi aplicada após o teste de usabilidade.
