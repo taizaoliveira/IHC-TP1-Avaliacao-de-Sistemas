@@ -15,7 +15,7 @@
 ### Resultado
 
 **Tabela demonstrando o resultado de realização para cada tarefa.**
-# Tarefa 1
+#### Tarefa 1
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -23,7 +23,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 2
+#### Tarefa 2
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -31,7 +31,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 3
+####  Tarefa 3
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -39,7 +39,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 4
+####  Tarefa 4
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -47,7 +47,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 5
+####  Tarefa 5
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -55,7 +55,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 6
+####  Tarefa 6
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -63,7 +63,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 7
+####  Tarefa 7
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -71,7 +71,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 8
+####  Tarefa 8
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -79,7 +79,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 9
+####  Tarefa 9
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -87,7 +87,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 10
+####  Tarefa 10
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
@@ -95,7 +95,7 @@
 | P3           | Conseguiu com bastante dificuldade.     |
 | P4           | Não conseguiu.                         |
 
-# Tarefa 11
+####  Tarefa 11
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
