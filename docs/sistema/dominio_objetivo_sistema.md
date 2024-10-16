@@ -1,8 +1,6 @@
 # Domínio e Objeivo do Sistema
 
-<!-- A primeira etapa do trabalho envolve uma análise para conhecer o domínio do problema, os usuários, quais 
-seus objetivos com relação a interação com o sistema e como eles utilizam atualmente os recursos 
-existentes para atingir esses objetivos. Vocês devem identificar o que os usuários querem fazer, por que 
-razão, quais seus valores, suas preferências, seus conhecimentos, suas dificuldades, suas expectativas 
-quanto à tecnologia e, consequentemente, qual o papel de vocês, designers, para ajudá-los. Para isto, 
-identifiquem os usuários-alvo do domínio do problema. -->
+O sistema em análise é o e-commerce da Livraria Cultura, um dos principais nomes no mercado brasileiro de livros e produtos culturais. Fundada há 70 anos por Eva Herz, a Livraria Cultura começou de forma humilde na casa da família Herz e, com o tempo, se consolidou como uma referência cultural no país, com lojas físicas em Porto Alegre e São Paulo. 
+
+A plataforma online da Livraria Cultura oferece uma experiência multimídia onde os clientes podem buscar e comprar uma vasta gama de produtos, desde livros e filmes a itens de entretenimento. Além de servir como uma plataforma de vendas, a Livraria Cultura promove eventos culturais e mantém um espaço diversificado para o público. 
+
