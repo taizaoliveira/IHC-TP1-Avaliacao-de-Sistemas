@@ -6,12 +6,12 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 | Avaliação dos consumidores: Informação confusa, não ficando claro se o campo é para realizar uma avaliação ou se é apenas para visualização das avaliações.                   |                      |            |               |
-|  2 | A assistente virtual é ativada no canto da tela sem nenhuma identificação.                      |                      |            |               |
-|  3 |  Adicionar um produto ao carrinho pela aba de cálculo de frete não é finalizada.                     |                      |            |               |
-|  4 |  Navegação confusa, com separação de elementos de navegação difíceis de se serem percebidas.                     |                      |            |               |
-|  5 | Falta de informação ao usuário sobre os tipos de produtos que o site oferece.                      |                      |            |               |
-|  6 |    Site apresenta produtos com informações incompletas.                   |                      |            |               |
+|  1 | Avaliação dos consumidores: Informação confusa, não ficando claro se o campo é para realizar uma avaliação ou se é apenas para visualização das avaliaçõesjá realizadas.                   |   Consistência e padronização (H4)                   | 2           |          0:20     |
+|  2 | A assistente virtual é ativada no canto da tela sem nenhuma identificação.                      |  Visibilidade do estado do sistema (H1)                    |        2    |       0:20        |
+|  3 |  Não exibe mensagem de finalização ao adicionar um produto ao carrinho pela aba de cálculo de frete.                     |    Visibilidade do estado do sistema (H1)                  |    3        |  0:30             |
+|  4 |  Navegação confusa, com separação de elementos de navegação difíceis de serem visualizadas.                     |  Estética e design minimalista (H8)                    |        3    |   0:30            |
+|  5 | Falta de informação ao usuário sobre os tipos de produtos que o site oferece.                      | Consistência e padronização (H4)                     |     3       |    0:30           |
+|  6 |    Site apresenta produtos com informações incompletas.                   | Estética e design minimalista (H8)                     |      1      |       0:20        |
 |  7 |                       |                      |            |               |
 
 
