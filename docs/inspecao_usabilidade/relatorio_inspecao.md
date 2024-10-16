@@ -18,15 +18,18 @@ Ainda na fase de planejamento, foi desenvolvido um roteiro com as tarefas a sere
 
 ### Detecção
 A etapa de detecção foi realizada por quatro inspetores (A1, A2, A3, A4), utilizando como base as heurísticas de Nielsen. Cada inspetor analisou, de forma independente, diversas interfaces e funcionalidades da plataforma, identificando potenciais problemas e violação de heurísticas. Abaixo, encontra-se o link para as tabelas que mostram os problemas detectados, e estão agrupados pelos respectivos inspetores.
-[**Tabela de Detecção:**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/inspecao_usabilidade/tabela_deteccao.md)
+
+[**Tabela de Detecção**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/inspecao_usabilidade/tabela_deteccao.md)
 
 ### Coleção
 Após a detecção individual, os problemas de usabilidade foram consolidados em um processo de eliminação de duplicatas e agrupamento de problemas semelhantes. Esta etapa resultou em uma lista única de problemas, com a eliminação de inconsistências repetidas.
-[**Tabela de Coleção:**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/inspecao_usabilidade/tabela_colecao.md)
+
+[**Tabela de Coleção**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/inspecao_usabilidade/tabela_colecao.md)
 
 ### Discriminação
 Após o agrupamento dos problemas, a equipe realizou a discriminação, classificando-os em defeitos reais ou falso-positivos. Problemas considerados irrelevantes ou que não causam impacto foram eliminados da lista final.
-[**Tabela de Discriminação:**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/inspecao_usabilidade/tabela_discriminacao.md)
+
+[**Tabela de Discriminação**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/inspecao_usabilidade/tabela_discriminacao.md)
 
 ### Consolidação (ou Priorização)
 Nesta etapa, foi priorizado os problemas que tiveram maior impacto na usabilidade. Dando prioridade às discrepâncias com severidade 3 (grande) e 4 (catastrófico), que podem prejudicar significativamente a experiência do usuário.
