@@ -23,31 +23,31 @@ O objetivo deste trabalho é avaliar um sistema computacional interativo, consid
 <!--(Organizar links que levam para cada relatório e produto produzido neste trabalho)-->
 ## Estrutura do Projeto
 ### 1 - Tabela de Tarefas
-- [**tabela_tarefas.md**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/tabela_tarefas.md): 
+[**tabela_tarefas.md**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/tabela_tarefas.md): 
   Tabela detalhando a distribuição de tarefas entre os membros da equipe, com a carga horária despendida em cada atividade.
 
 ### 2 - Sistema
-- [**sistema/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/sistema): 
+[**sistema/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/sistema): 
   Documentação sobre o sistema avaliado, com a descrição do domínio de aplicação, objetivo do sistema e o perfil dos usuários.
 
 ### 3 – Inspeção de Usabilidade
-- [**inspecao_usabilidade/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/inspecao_usabilidade): 
+[**inspecao_usabilidade/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/inspecao_usabilidade): 
   Pasta com a inspeção de usabilidade realizada pelos membros da equipe, incluindo a detecção e classificação dos problemas de usabilidade.
 
 ### 4 – Teste de Usabilidade
-- [**teste_usabilidade/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/teste_usabilidade): 
+[**teste_usabilidade/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/teste_usabilidade): 
   Documentação do planejamento, execução e análise do teste de usabilidade, incluindo o roteiro das atividades e o Termo de Consentimento Livre e Esclarecido (TCLE).
 
 ### 5 – Avaliação UX
-- [**avaliacao_ux/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/avaliacao_ux): 
+[**avaliacao_ux/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/avaliacao_ux): 
   Contém o relatório da avaliação de UX, utilizando técnicas escolhidas para avaliar a experiência dos usuários com o sistema.
 
 ### 6 – Método de Avaliação de Comunicabilidade (MAC)
-- [**avaliacao_comunicabilidade/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/avaliacao_comunicabilidade): 
+[**avaliacao_comunicabilidade/**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/tree/main/docs/avaliacao_comunicabilidade): 
   Contém a avaliação de comunicabilidade, onde o sistema foi avaliado usando o Método de Avaliação de Comunicabilidade (MAC), com vídeos etiquetados e o modelo de Termo de Consentimento Livre e Esclarecido (TCLE).
 
 ### 7 – Reflexão Individual
-- [**reflexao_individual.md**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/reflexao_individual.md): 
+[**reflexao_individual.md**](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/reflexao_individual.md): 
   Reflexões individuais de cada membro da equipe, discutindo os aprendizados e desafios enfrentados durante o processo de avaliação.
 
 
