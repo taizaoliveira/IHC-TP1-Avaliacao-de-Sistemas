@@ -61,7 +61,7 @@
     <th>16</th>
   </tr>
   <tr>
-    <td>T3 - Formatação de Relatório</td>
+    <td>T3 - Formatação do relatório de inspeção</td>
     <td></td>
     <td></td>
     <td></td>
