@@ -12,7 +12,7 @@
 |  Esse tempo é satisfatório para a experiência do usuário?           |  Há algum atraso notável?   |    Como isso afeta a percepção do usuário? |    Isso impacta a percepção inicial de velocidade do site?  |     O tempo de resposta do impacta o desempenho?                      |
 |  O tempo deve ser inferior a **2,5 segundos** para uma boa experiência.|  O tempo deve ser inferior a 200ms para uma boa responsividade |  O valor de CLS deve ser menor que 0,1. Acima disso, indica mudanças que podem frustrar o usuário. |   Um FCP abaixo de 1,8 segundos é considerado bom.  |    Um TTFB inferior a 0,8 segundos é considerado bom.                       |
 
-<img src="docs/avaliacao_ux/imagens/fase 1 avaliação ux.png" width="900"/>
+![Métricas UX](https://github.com/taizaoliveira/IHC-TP1-Avaliacao-de-Sistemas/blob/main/docs/avaliacao_ux/imagens/fase%201%20avalia%C3%A7%C3%A3o%20ux.png)
 
 
 
