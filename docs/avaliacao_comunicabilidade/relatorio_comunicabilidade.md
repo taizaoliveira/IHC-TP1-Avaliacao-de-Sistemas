@@ -33,17 +33,17 @@ Sair e recuperar senha: Após concluir as compras, o usuário faz logout da cont
 Foram identificadas onze etiquetas.
 | Etiqueta                   | Falha      | Participantes | Atividade                        |
 |----------------------------|------------|---------------|----------------------------------|
-| Cade?                      |            | P1, P2, P3, P4|     realizar cadastro            |
-| E agora?                   |            |P1, P2, P3, P4|         Inserir endereço                         |
-| O que é isto?             |            |P1, P2, P3, P4|Gerenciar e visualizar lista de desejos                    |
+| Cade?                      |   Temporária         | P1, P2, P3, P4|     realizar cadastro            |
+| E agora?                   |   Parcial         |P1, P2, P3, P4|         Inserir endereço                         |
+| O que é isto?             |     Parcial       |P1, P2, P3, P4|Gerenciar e visualizar lista de desejos                    |
 | Epa!                       |  Parcial  |P1, P2, P3, P4| Finalizar compra e utilizar pagamento PIX                           |
 | Onde estou?                | Temporária |P1, P2, P3, P4|       Acessar lista de categorias e configurar filtros                          |
-| Assim não dá.             |            |P1, P2, P3, P4|            realizar cadastro                      |
-| Por que não funciona?      |            |P1, P2, P3, P4|        Fazer uma pesquisa                          |
+| Assim não dá.             |   Temporária         |P1, P2, P3, P4|            realizar cadastro                      |
+| Por que não funciona?      |    Temporária        |P1, P2, P3, P4|        Fazer uma pesquisa                          |
 | Ué, o que houve?          | Temporária |P1, P2, P3, P4|          recuperar senha                        |
 | Pra mim está bom...       | Completa   |P1, P2, P3, P4|           Adicionar no carrinho e fazer compra                       |
-| Desisto!                   |            |P1, P2, P3, P4 |    Adicionar à lista de desejos                             |
-| Socorro!                   |            |P1, P2, P3, P4|        Acessar Minha Conta e inserir dados pessoais                         |
+| Desisto!                   |    Temporária        |P1, P2, P3, P4 |    Adicionar à lista de desejos                             |
+| Socorro!                   |     Parcial       |P1, P2, P3, P4|        Acessar Minha Conta e inserir dados pessoais                         |
 | Cadê?                      | Parcial    |P1, P2, P3, P4|     escolher categoria no menu                             |
 
 
