@@ -30,7 +30,12 @@ Finalizar compra e utilizar pagamento PIX: O usuário finaliza a compra utilizan
 Sair e recuperar senha: Após concluir as compras, o usuário faz logout da conta. Posteriormente, simula o esquecimento da senha, acessando a opção "Esqueci minha senha" para recuperar o acesso. Isso envolve receber um e-mail de recuperação e seguir as instruções para criar uma nova senha.
 
 ### Interpretação
-Foram identificadas onze etiquetas.
+Foram identificadas onze etiquetas. E classificadas de acordo com a falha, participante, e atividades.
+Entende-se por falha:
+Completa: A atividade foi realizada sem problemas, indicando uma boa experiência do usuário.
+Parcial: A atividade foi realizada, mas houve dificuldades ou incompletudes, indicando áreas de melhoria.
+Temporária: A atividade apresenta problemas que podem ser ocasionais, sugerindo que a experiência do usuário pode variar.
+
 | Etiqueta                   | Falha      | Participantes | Atividade                        |
 |----------------------------|------------|---------------|----------------------------------|
 | Cade?                      |   Temporária         | P1, P2, P3, P4|     realizar cadastro            |
