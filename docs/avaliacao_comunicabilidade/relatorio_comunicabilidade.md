@@ -1,4 +1,5 @@
 # 6 – Método de Avaliação de Comunicabilidade (MAC)
+O objetivo deste relatório é realizar uma Avaliação de Comunicabilidade (MAC) no sistema de e-commerce da Livraria Cultura. A análise visa identificar falhas comunicacionais entre o sistema e seus usuários.
 
 ### Execução MAC: Preparação e Coleta de Dados
 
