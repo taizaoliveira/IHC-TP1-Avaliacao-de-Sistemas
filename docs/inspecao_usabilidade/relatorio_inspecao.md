@@ -37,16 +37,16 @@ Nesta etapa, foi priorizado os problemas que tiveram maior impacto na usabilidad
 **Tabela demonstrando a quantidade de heurísticas violadas.**
 | Heurísticas violadas                                                              | Quantidade |
 |-----------------------------------------------------------------------------------|------------|
-| Visibilidade do estado do sistema (H1)                                            |            |
-| Correspondência entre o sistema e o mundo real (H2)                              |            |
-| Controle e liberdade do usuário (H3)                                             |            |
-| Consistência e padronização (H4)                                                |            |
-| Prevenção de erros (H5)                                                           |            |
-| Reconhecer ao invés de relembrar (H6)                                           |            |
-| Flexibilidade e eficiência de uso (H7)                                           |            |
-| Estética e design minimalista (H8)                                               |            |
-| Ajudar os usuários a reconhecerem, diagnosticar e corrigir erros (H9)           |            |
-| Ajuda e documentação (H10)                                                       |            |
+| Visibilidade do estado do sistema (H1)                                            |      13      |
+| Correspondência entre o sistema e o mundo real (H2)                              |      5      |
+| Controle e liberdade do usuário (H3)                                             |       13     |
+| Consistência e padronização (H4)                                                |       11     |
+| Prevenção de erros (H5)                                                           |    10        |
+| Reconhecer ao invés de relembrar (H6)                                           |       7     |
+| Flexibilidade e eficiência de uso (H7)                                           |      18      |
+| Estética e design minimalista (H8)                                               |      17      |
+| Ajudar os usuários a reconhecerem, diagnosticar e corrigir erros (H9)           |        9    |
+| Ajuda e documentação (H10)                                                       |      7      |
 
 **Tabela demonstrando a quantidade de problemas associados a cada severidade.**
 | Severidade             | Quantidade |
