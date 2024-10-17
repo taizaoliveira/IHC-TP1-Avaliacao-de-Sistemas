@@ -7,9 +7,15 @@ Planejamos que o A2 e o A3 seriam os facilitadores durante os teste, cada um sen
 #### - Objetivo:
 Consiste em realizar um teste onde os usuários podem expor suas opiniões e, por meio da análise, identificar os maiores problemas do sistema. Nosso interesse está em ver algo que apenas usuários podem perceber sobre o sistema: os problemas grandes e pequenos, dificuldades em tarefas, diversidade na navegação, abrindo portas para áreas não exploradas por nós, inspetores. O nosso teste de usabilidade do sistema Livraria Cultura tem como objetivo usar os usuários para descobrir falhas, melhorias e avaliações minuciosas.
 
-#### - Publico-Alvo:
-* Usuários
-Planejamos que os usuários para esse teste seriam em sua maioria os discentes do ICET-UFAM e pessoas com idade o suficiente para entender o sistema.
+#### - Público-Alvo:
+* Usuários: universitários do ICET-UFAM e de outras instituições.
+* Número de Participantes: 4, sendo 3 universitários do ICET e 1 universitário do IFAM.
+* Faixa etária: entre 18 e 30 anos.
+* Profissão: alunos de graduação.
+* Escolaridade: cursando o ensino superior.
+* Classe Econômica: sem restrição.
+* Requisitos: já ter utilizado um computador.
+
 #### Tarefas:
 Abaixo estão as tarefas escolhidas para o teste de usabilidade.
 1. Realizar cadastro.
