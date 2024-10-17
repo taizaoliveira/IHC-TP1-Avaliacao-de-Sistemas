@@ -32,23 +32,19 @@ Sair e recuperar senha: Após concluir as compras, o usuário faz logout da cont
 Foram identificadas onze etiquetas.
 | Etiqueta                   | Falha      | Participantes | Atividade                        |
 |----------------------------|------------|---------------|----------------------------------|
-| Cade?                      |            |               |                                  |
-| E agora?                   |            |               |                                  |
-| O que é isto?             |            |               |                                  |
-| Epa!                       |            |               |                                  |
-| Onde estou?                | Temporária | 1             |                                 |
-| Assim não dá.             |            |               |                                  |
-| Por que não funciona?      |            |               |                                  |
-| Ué, o que houve?          | Temporária | 1             |                                  |
-| Ué, o que houve?          | Temporária | 1             |                                  |
-| Pra mim está bom...       | Completa   | 1             |                                  |
-| Desisto!                   |            |               |                                  |
-| Vai de outro jeito.        |            |               |                                  |
-| Não, obrigado.             |            |               |                                  |
-| Socorro!                   |            |               |                                  |
-| Cadê?                      | Parcial    | 4             |                                  |
-| Cadê?                      | Parcial    | 3             |                                  |
-| Cadê?                      | Temporária | 1             |                                  |
+| Cade?                      |            | P1, P2, P3, P4|     realizar cadastro            |
+| E agora?                   |            |P1, P2, P3, P4|         Inserir endereço                         |
+| O que é isto?             |            |P1, P2, P3, P4|Gerenciar e visualizar lista de desejos                    |
+| Epa!                       |  Parcial  |P1, P2, P3, P4| Finalizar compra e utilizar pagamento PIX                           |
+| Onde estou?                | Temporária |P1, P2, P3, P4|       Acessar lista de categorias e configurar filtros                          |
+| Assim não dá.             |            |P1, P2, P3, P4|                                  |
+| Por que não funciona?      |            |P1, P2, P3, P4|        Fazer uma pesquisa                          |
+| Ué, o que houve?          | Temporária |P1, P2, P3, P4|          recuperar senha                        |
+| Pra mim está bom...       | Completa   |P1, P2, P3, P4|           Adicionar no carrinho e fazer compra                       |
+| Desisto!                   |            |P1, P2, P3, P4 |    Acessar lista de categorias e configurar filtros                              |
+| Socorro!                   |            |P1, P2, P3, P4|                                  |
+| Cadê?                      | Parcial    |P1, P2, P3, P4|     escolher categoria no menu                             |
+
 
 
 ### Perfis dos Usuários
@@ -155,7 +151,7 @@ Quantidade de Etiquetas
 |----------------------------|------------|
 | Cade ?                     |            |
 | E agora?                   |            |
-| O que é isto?             |            |
+| O que é isto?              |            |
 | Epa!                       |            |
 | Onde estou?                |            |
 | Assim não dá.             |            |
