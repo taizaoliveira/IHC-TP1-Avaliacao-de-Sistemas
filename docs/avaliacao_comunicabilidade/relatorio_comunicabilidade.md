@@ -31,9 +31,13 @@ Sair e recuperar senha: Após concluir as compras, o usuário faz logout da cont
 
 ### Interpretação
 Foram identificadas onze etiquetas. E classificadas de acordo com a falha, participante, e atividades.
+
 Entende-se por falha:
+
 Completa: A atividade foi realizada sem problemas, indicando uma boa experiência do usuário.
+
 Parcial: A atividade foi realizada, mas houve dificuldades ou incompletudes, indicando áreas de melhoria.
+
 Temporária: A atividade apresenta problemas que podem ser ocasionais, sugerindo que a experiência do usuário pode variar.
 
 | Etiqueta                   | Falha      | Participantes | Atividade                        |
