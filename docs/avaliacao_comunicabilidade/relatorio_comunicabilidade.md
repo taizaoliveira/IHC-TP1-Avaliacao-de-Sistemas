@@ -47,13 +47,6 @@ Foram identificadas onze etiquetas.
 | Cadê?                      | Parcial    |P1, P2, P3, P4|     escolher categoria no menu                             |
 
 
-
-### Perfis dos Usuários
-
-
-### Execução
-
-
 ### Resultado
 
 **Tabela demonstrando o resultado de realização para cada tarefa.**
