@@ -62,55 +62,55 @@ Foram identificadas onze etiquetas.
 | P1           | Conseguiu com pouco de dificuldade.    |
 | P2           | Conseguiu.                             |
 | P3           | Conseguiu com bastante dificuldade.     |
-| P4           | Não conseguiu.                         |
+| P4           | Não conseguiu na primeira tentativa, mas depois concluiu                         |
 
 #### Tarefa 2
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
-| P1           | Conseguiu com pouco de dificuldade.    |
+| P1           | Conseguiu.    |
 | P2           | Conseguiu.                             |
 | P3           | Conseguiu com bastante dificuldade.     |
-| P4           | Não conseguiu.                         |
+| P4           | Conseguiu.                         |
 
 ####  Tarefa 3
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
-| P1           | Conseguiu com pouco de dificuldade.    |
+| P1           | Não conseguiu.    |
 | P2           | Conseguiu.                             |
-| P3           | Conseguiu com bastante dificuldade.     |
+| P3           | Conseguiu com um pouco de dificuldade.     |
 | P4           | Não conseguiu.                         |
 
 ####  Tarefa 4
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
-| P1           | Conseguiu com pouco de dificuldade.    |
+| P1           | Conseguiu.    |
 | P2           | Conseguiu.                             |
-| P3           | Conseguiu com bastante dificuldade.     |
-| P4           | Não conseguiu.                         |
+| P3           | Conseguiu.     |
+| P4           | Conseguiu.                         |
 
 ####  Tarefa 5
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
-| P1           | Conseguiu com pouco de dificuldade.    |
+| P1           | Conseguiu.    |
 | P2           | Conseguiu.                             |
-| P3           | Conseguiu com bastante dificuldade.     |
-| P4           | Não conseguiu.                         |
+| P3           | Conseguiu.     |
+| P4           | Conseguiu.                        |
 
 ####  Tarefa 6
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
-| P2           | Conseguiu.                             |
+| P2           | Conseguiu com pouco de dificuldade.                             |
 | P3           | Conseguiu com bastante dificuldade.     |
-| P4           | Não conseguiu.                         |
+| P4           | Conseguiu com pouco de dificuldade.                         |
 
 ####  Tarefa 7
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
-| P1           | Conseguiu com pouco de dificuldade.    |
-| P2           | Conseguiu.                             |
+| P1           | Conseguiu com bastante dificuldade.    |
+| P2           | Conseguiu com bastante dificuldade.                            |
 | P3           | Conseguiu com bastante dificuldade.     |
-| P4           | Não conseguiu.                         |
+| P4           | Conseguiu com bastante dificuldade.                         |
 
 ####  Tarefa 8
 | Participante | Resultado                               |
@@ -125,23 +125,23 @@ Foram identificadas onze etiquetas.
 |--------------|-----------------------------------------|
 | P1           | Conseguiu com pouco de dificuldade.    |
 | P2           | Conseguiu.                             |
-| P3           | Conseguiu com bastante dificuldade.     |
-| P4           | Não conseguiu.                         |
+| P3           | Não conseguiu.      |
+| P4           | Conseguiu com bastante dificuldade.                       |
 
 ####  Tarefa 10
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
-| P1           | Conseguiu com pouco de dificuldade.    |
+| P1           | Conseguiu.    |
 | P2           | Conseguiu.                             |
-| P3           | Conseguiu com bastante dificuldade.     |
-| P4           | Não conseguiu.                         |
+| P3           | Conseguiu.     |
+| P4           | Conseguiu.                         |
 
 ####  Tarefa 11
 | Participante | Resultado                               |
 |--------------|-----------------------------------------|
-| P1           | Conseguiu com pouco de dificuldade.    |
-| P2           | Conseguiu.                             |
-| P3           | Conseguiu com bastante dificuldade.     |
+| P1           | Não conseguiu.    |
+| P2           | Não conseguiu.                             |
+| P3           | Não conseguiu.     |
 | P4           | Não conseguiu.                         |
 
 
@@ -149,16 +149,16 @@ Foram identificadas onze etiquetas.
 Quantidade de Etiquetas
 | Etiqueta                   | Quantidade |
 |----------------------------|------------|
-| Cade ?                     |            |
-| E agora?                   |            |
-| O que é isto?              |            |
-| Epa!                       |            |
-| Onde estou?                |            |
-| Assim não dá.             |            |
-| Por que não funciona?      |            |
-| Ué, o que houve?          |            |
-| Pra mim está bom...        |            |
-| Desisto!                   |            |
-| Vai de outro jeito.        |            |
-| Não, obrigado.             |            |
-| Socorro!                   |            |
+| Cade ?                     |    4        |
+| E agora?                   |    4        |
+| O que é isto?              |   4         |
+| Epa!                       |    4        |
+| Onde estou?                |    4        |
+| Assim não dá.             |      4      |
+| Por que não funciona?      |      4      |
+| Ué, o que houve?          |        4    |
+| Pra mim está bom...        |        4    |
+| Desisto!                   |         4   |
+| Vai de outro jeito.        |       0     |
+| Não, obrigado.             |        0    |
+| Socorro!                   |      0      |
