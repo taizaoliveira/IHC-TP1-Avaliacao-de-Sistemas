@@ -2,7 +2,7 @@
 
 ### Planejamento
 O planenjamento consistiu em realizar o teste de usabilidade com 4 usuários, utlizando um teste tanto quantitativo quanto qualitativo (expressa pela avaliação UX). Planejamos um teste presencial x remoto, onde os usuários seriam levados para uma sala com o sistema a espera. 
-Planejamos que o A2 e o A3 seriam os facilitadores durante os teste, cada um sendo responsável por cuidar de 2 usuários. Enquanto eram realizadas pelos A1 e A4 t
+Planejamos que o A2 e o A3 seriam os facilitadores durante os teste, cada um sendo responsável por cuidar de 2 usuários. Enquanto eram realizadas pelos A1 e A4 técnicas de observação Análise Automatizada de Protocolos.
 
 #### - Objetivo:
 Consiste em realizar um teste onde os usuários podem expor suas opiniões e, por meio da análise, identificar os maiores problemas do sistema. Nosso interesse está em ver algo que apenas usuários podem perceber sobre o sistema: os problemas grandes e pequenos, dificuldades em tarefas, diversidade na navegação, abrindo portas para áreas não exploradas por nós, inspetores. O nosso teste de usabilidade do sistema Livraria Cultura tem como objetivo usar os usuários para descobrir falhas, melhorias e avaliações minuciosas.
@@ -34,10 +34,24 @@ Abaixo estão as tarefas escolhidas para o teste de usabilidade.
 14. Finalizar pedido via PIX.
 15. Sair e Recuperar senha.
 
-#### - Métricas: 
+#### - Métricas:
+Planejamos uma série de tarefas para que os usuários tivessem uma ordem bem definidas de tarefas para não confundi-los. Porém, fazendo a inspeção percebemos que algumas métricas teriam resultados negativos.
+
+#### - Equipamentos:
+* Computadores
+* Celulares
+* Papel e Caneta
+* Planilhas de Coleta de dados.
 
 ### Preparação
+#### - Recrutamento:
+Forão selecionados 4 usuários para comparecer em uma sala escolhida pela equipe no Instituto de Ciências Exatas e Tecnologia. Todos fizeram o teste durante o período da tarde entre as 14h até as 17h.
 
+#### - Instalação:
+Foi preparado os computadores para ter o primeiro acesso no site. Assim como forão preparados e imprimidos os termos, lista de tarefas e outros testes. Forão preparados os programas que seriam utilizados.
+
+#### Ambiente de testes:
+Foi preparado o ambiente para que todos os usuários tivessem acesso ao sistema pelos computadores, assim como viabilizamos a melhor vistas dos avaliadores e o facilitador.
 
 ### Teste Piloto
 
