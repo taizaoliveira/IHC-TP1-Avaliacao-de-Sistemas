@@ -65,10 +65,10 @@ Foi preparado o ambiente para que todos os usuários tivessem acesso ao sistema 
 
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda |
 |--------------|-------------|------------------|-----------------------|
-| P1           |             |                  |                       |
-| P2           |             |                  |                       |
-| P3           |             |                  |                       |
-| P4           |             |                  |                       |
+| P1           | 20:34 |5                  |3             |
+| P2           | 27:58 |11                 |7                      |
+| P3           | 18:41 |4                  |1                      |
+| P4           | 21:14 |9                 |6                   |
 
 **Tabela demonstrando dados qualitativos do teste para cada participante.**
 
