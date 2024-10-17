@@ -16,7 +16,7 @@ Consiste em realizar um teste onde os usuários podem expor suas opiniões e, po
 * Classe Econômica: sem restrição.
 * Requisitos: já ter utilizado um computador.
 
-#### Tarefas:
+#### - Tarefas:
 Abaixo estão as tarefas escolhidas para o teste de usabilidade.
 1. Realizar cadastro.
 2. Acessar MINHA CONTA.
