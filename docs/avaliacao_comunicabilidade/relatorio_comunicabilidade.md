@@ -155,4 +155,4 @@ Quantidade de Etiquetas
 | Desisto!                   |         4   |
 | Vai de outro jeito.        |       0     |
 | Não, obrigado.             |        0    |
-| Socorro!                   |      0      |
+| Socorro!                   |      4      |
